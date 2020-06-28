@@ -1,0 +1,12 @@
+{
+    "otpsendEmail":"OTP has been sent to your mail",
+    "otpverified": "Your otp has been verified succesfully. Please wait till you get an approval from the admin to start using the app.",
+    "forgotPasswordLinkSent":"Thank you. If a valid email address has been provided, password recovery instructions will be sent to it.",
+    "deActivatedAccount":"Thank you.  If a valid email address has been provided, password recovery instructions will be sent to it.",
+    "mobileOTPMessage":"Dear CertLink™ User,Your One Time PIN for CertLink™ is ",
+    "otpsendMobile":"OTP has been sent to your phone number.",	
+    "otpResendMessage": "Dear  CertLink™ User, \nBelow is your new one time use PIN to initiate the approval process  for access to CertLink™.  The PIN is case sensitive and will expire within 60 minutes.  \nPlease disregard any PIN received prior to this one.  \n  PIN: {0}  \n\n  Regards,  \n  CertLink™ Support Team",
+    "answerUpdate":"Your answer has been updated.",
+    "correctAnswer":"Correct",
+    "wrongAnswer":"Incorrect"
+}

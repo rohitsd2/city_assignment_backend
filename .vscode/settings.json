@@ -1,0 +1,11 @@
+{
+    "vscode-janus-debug.uploadOnSave": [
+        "itemController",
+        "order"
+    ],
+    "vscode-janus-debug.uploadManually": [
+        "orderController",
+        "orderRoutes"
+    ],
+    "git.ignoreLimitWarning": true
+}

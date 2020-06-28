@@ -1,0 +1,8 @@
+{
+    "001": "Login Failed, Please check your login credentials.",
+    "002": "Error found, Please contact to system administrator or try again later.",
+    "003": "Mobile Number already exists.",
+    "004": "Oops! Something went wrong, Please try again.  ",
+    "005": "Individual Not Found, Please check mobile number entered",
+    "006": "OTP verify failed, please check OTP and try again."
+}
